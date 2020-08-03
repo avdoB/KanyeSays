@@ -1,0 +1,58 @@
+@import url(http://mcansh.github.io/yeezy-logo-font/assets/css/font.css); 
+body{
+    background-color: #fff1e8;  margin:auto;
+}
+h1{background-color:  color:#ffffff;
+padding:10px;
+color:white;
+font-family: arial;
+text-align: center;
+font-style: bold;
+}
+a{
+    text-decoration: none;
+color: black;
+}
+
+.btn{height:50px; width:150px;
+font-size: 18px;
+color:#ffffff;
+background-color: #678d6ccc;
+border:none;
+padding:5px;
+border-radius: 5px;}
+
+.card{padding:15px 30px 15px 30px;
+margin:40px auto;
+max-width:500px;
+max-height:300px;
+text-align: center;
+background-color: #d7a879;
+border-radius: 5px;
+} 
+
+p{font-family:'Segoe UI';
+font-weight:400;
+font-size: 20px;
+color: white ;}
+
+img{
+    bottom: 20px; /* your required value */
+    right: 0;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+z-index: -1;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+color: rgb(78, 29, 1);
+   text-align: center;
+   padding-bottom: 40px;
+}
+
+
+
