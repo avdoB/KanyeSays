@@ -22,6 +22,23 @@ let Quotes= [
  'I will go down as the voice of this generation, of this decade, I will be the loudest voice.' ,
 
  'People always say that you can’t please everybody. I think that’s a cop-out. Why not attempt it? ‘Cause think of all the people you will please if you try.'
+    
+ ' The music and the clothing are just as important. Thats what makes you hip hop. You show people that youre hip hop by what you wear',
+
+'You aint got the answers Sway!';
+    
+'In response to Sway suggesting he start a clothing company on his own.',
+    
+'I hate when Im on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle',
+    
+'I still think I am the greatest.',
+    
+'Accepting the Billboard Music Award for Artist of the Year',
+    
+'Yo, Taylor, Im really happy for you, Ima let you finish, but Beyoncé had one of the best videos of all time! One of the best videos of all time',
+    
+'Im just giving of my body on the stage and putting my life at risk, literally. [...] And I think about it. I think about my family and I’m like, wow, this is like being a police officer or something, in war or something.'
+
 ];
 
 /// function that randomises and displays words inside the html 
